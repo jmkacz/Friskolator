@@ -1,4 +1,11 @@
-processing/secret.py #file to store your secret flicker API key into
+# mac cruft
+.DS_Store
 
+# compiled python files
+*.pyc
+
+# file to store your secret flicker API key into
+secret.py
+
+# ...
 processing/virtualenv/*
-processing/*.pyc # compiled python files
